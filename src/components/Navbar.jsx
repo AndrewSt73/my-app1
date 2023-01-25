@@ -5,6 +5,7 @@ const Navbar = () => {
         <div><a>Masseges</a></div>
         <div><a>News</a></div>
         <div><a>Feed</a></div>
+        <div><a>something else</a></div>
         
       </nav>
     )
