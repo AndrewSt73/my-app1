@@ -1,5 +1,7 @@
 .AppWrapper {
   display: grid;
+
+  margin: auto;
     
   width: 1200px;
 
@@ -11,21 +13,9 @@
   grid-template-columns: 2fr 10fr;
 }
 
-.header {
-  grid-area: h;
-  background-color: aqua;
-}
-.header img {
-  width: 60px;
-}
 
-.nav {
-  grid-area: n;
-  background-color: coral;
-}
 
-.content {
-  grid-area: c;
-  background-color: darkgoldenrod;
-}
+
+
+
 
